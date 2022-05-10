@@ -1,3 +1,3 @@
 # Projects
 
-Hello
+Exercices for Python and IA
