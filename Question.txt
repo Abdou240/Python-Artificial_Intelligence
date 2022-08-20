@@ -1,0 +1,9 @@
+9.25 14:08
+
+
+>3. Do medical conditions (hypertension, diabetes, or handcap) affect patient appearance?
+>5. Does alcoholism affect the patient's appearance?
+>6. Does the average age affect the patient's appearance?
+>7. Does length of wait time affect patient appearance?
+>4. Does the day of the week of the appointment and the month affect the patient's appearance?
+>8. Which factors are important for us to predict whether a patient will show up for their scheduled appointment?
