@@ -1,2 +1,0 @@
-https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2015&start=2000
-https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=SO
