@@ -1,4 +1,4 @@
-# An overview of the course content 
+# An overview of the course content: 
 
 ### Coding with Python
 
