@@ -25,3 +25,5 @@
 4 - Data preprocessing
 
 5 - Machine learning
+
+6 - Final project
