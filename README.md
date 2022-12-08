@@ -1,3 +1,5 @@
+# An overview of the course content 
+
 ### Coding with Python
 
 1 - Python Basics
