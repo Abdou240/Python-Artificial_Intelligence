@@ -1,4 +1,4 @@
-#
+### Coding with Python
 
 1 - Python Basics
 
@@ -13,3 +13,15 @@
 6- Python algorithms
 
 7 - Python file handiling
+
+### Artificial Intelligence
+
+1 - Introduction to Artificial Intelligence
+
+2 - Python 
+
+3 - Data processing and visualization
+
+4 - Data preprocessing
+
+5 - Machine learning
